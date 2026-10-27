@@ -1,24 +1,34 @@
-# ForGo 3.4.0
-# ForGo — Universal Game Optimizer
+# ForGo
 
-**ForGo** — приложение для Windows, объединяющее запуск популярных игр, системные настройки и инструменты обслуживания компьютера в одном интерфейсе.
+### Your games. Your system. Your control.
 
-Минималистичный дизайн, тема Liquid Glass и удобная библиотека игр — всё в одном месте.
+**ForGo** is an all-in-one gaming utility for Windows, built to bring game launching, system optimization and PC monitoring together in one clean interface.
 
-## ✨ Возможности
+[**Download ForGo**](../../releases/latest)
 
-- 🎮 **Библиотека игр** — выбор и запуск поддерживаемых игр через официальные игровые клиенты.
-- ⚙️ **Системные твики** — настройки Windows для игрового режима, интерфейса, фоновых функций и удобства работы.
-- 🚀 **Игровые профили** — применение рекомендуемых настроек и управление приоритетом игрового процесса.
-- 📊 **Мониторинг системы** — просмотр загрузки процессора и оперативной памяти.
-- 🧰 **Инструменты обслуживания** — очистка временных файлов, сброс DNS-кэша и просмотр процессов.
-- ↩️ **Восстановление настроек** — возврат исходных значений для поддерживаемых изменений.
-- 🪟 **Liquid Glass UI** — современный интерфейс с прозрачными поверхностями и плавными визуальными эффектами.
-- 📦 **Установщик Windows** — возможность распространять собранное приложение через отдельный установочный файл.
+---
 
-## 🎮 Поддерживаемые игры
+## What’s inside
 
-В проекте предусмотрены способы запуска следующих игр:
+**🎮 Game Hub**  
+Launch your favorite games from one place.
+
+**⚡ System Tweaks**  
+Fine-tune Windows settings with convenient optimization profiles.
+
+**📊 Performance Monitoring**  
+Keep an eye on CPU usage, memory and running processes.
+
+**🧰 PC Tools**  
+Access useful system maintenance and troubleshooting tools.
+
+**↩️ Restore Settings**  
+Revert supported system changes when needed.
+
+**✦ Liquid Glass UI**  
+A refined interface with translucent surfaces, smooth transitions and a minimalist design.
+
+## Supported Games
 
 - Fortnite
 - Counter-Strike 2
@@ -26,43 +36,36 @@
 - VALORANT
 - Apex Legends
 - PUBG: Battlegrounds
-- Tom Clancy's Rainbow Six Siege
+- Rainbow Six Siege
 - League of Legends
 
-Для запуска могут потребоваться соответствующий игровой клиент, установленная игра и авторизация пользователя.
+Game availability depends on installation location and the required launcher.
 
-## 🖥️ Системные требования
+## Get Started
 
-- Windows 10 или Windows 11, 64-bit
-- Интернет для установки зависимостей и запуска онлайн-игр
-- Python и необходимые библиотеки — для сборки из исходников
+1. Open the [**latest release**](../../releases/latest).
+2. Download the ForGo installer from **Assets**.
+3. Run the installer and follow the on-screen instructions.
+4. Launch ForGo and choose your game.
 
-## 🛠️ Сборка из исходников
+No manual Python setup or source-code compilation is required when using the published installer.
 
-1. Скачайте или клонируйте репозиторий.
-2. Распакуйте проект, если скачали ZIP-архив.
-3. Запустите `build.bat`.
-4. Дождитесь установки необходимых библиотек и завершения сборки.
-5. Найдите исполняемый файл в папке `dist`, если сборка завершилась успешно.
+## Compatibility
 
-Для создания установочного файла используйте предоставленные в проекте файлы сборки установщика и следуйте инструкции в `README_INSTALLER.md`, если этот файл присутствует в вашей версии проекта.
+- Windows 10 / Windows 11
+- 64-bit systems
 
-## 🔒 Безопасность
+## Disclaimer
 
-ForGo предназначен для настройки Windows и запуска игр через предусмотренные игровые клиенты. Приложение не должно использоваться для обхода античитов или изменения игровых файлов с целью получения нечестного преимущества.
+ForGo is an independent community project and is not affiliated with Epic Games, Valve, Riot Games or other game publishers.
 
-Перед применением системных твиков рекомендуется ознакомиться с их описанием. Доступность и эффект отдельных настроек зависят от версии Windows и оборудования.
-
-## ⚠️ Важно
-
-ForGo находится в разработке. Не все функции и конфигурации могли быть проверены на всех системах.
-
-Приложение не гарантирует увеличение FPS, уменьшение задержки или улучшение сетевого соединения: результат зависит от компьютера, драйверов, игры и сетевых условий.
-
-## 📄 Лицензия
-
-Перед публичным распространением добавьте файл `LICENSE` и выберите лицензию, соответствующую вашим условиям распространения.
+Optimization results vary by hardware, drivers, Windows configuration and individual games. FPS improvements or lower network latency are not guaranteed.
 
 ---
 
-**ForGo — Your Games. Your Settings. Your Control.**
+<div align="center">
+
+**ForGo**  
+*Built for gamers. Designed for control.*
+
+</div>
